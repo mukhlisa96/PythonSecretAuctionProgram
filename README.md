@@ -1,4 +1,4 @@
-# Silent Auction (Python)
+# Secret Auction (Python)
 
 A simple console-based silent auction program written in Python. Users place bids, which are stored in a dictionary, and the program determines the highest bidder.
 
